@@ -1,4 +1,4 @@
-# Comprehensive Analysis of TCGA-BRCA Gene Expression Data for Breast Cancer Subtype Insights
+# Precision Breast Cancer Subtype Profiling & Biomarker Discovery
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F2762E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
